@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jogo da Velha", "Jogo da Velha\Jogo da Velha.vcxproj", "{FF8AF7BA-25A9-40A1-947E-A4A60FD6DDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8AF7BA-25A9-40A1-947E-A4A60FD6DDFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF8AF7BA-25A9-40A1-947E-A4A60FD6DDFF}.Debug|Win32.Build.0 = Debug|Win32
+		{FF8AF7BA-25A9-40A1-947E-A4A60FD6DDFF}.Release|Win32.ActiveCfg = Release|Win32
+		{FF8AF7BA-25A9-40A1-947E-A4A60FD6DDFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
